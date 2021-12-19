@@ -1,0 +1,14 @@
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\bin\Debug\netcoreapp3.1\RuneCrafter.exe
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\bin\Debug\netcoreapp3.1\RuneCrafter.deps.json
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\bin\Debug\netcoreapp3.1\RuneCrafter.runtimeconfig.json
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\bin\Debug\netcoreapp3.1\RuneCrafter.runtimeconfig.dev.json
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\bin\Debug\netcoreapp3.1\RuneCrafter.dll
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\bin\Debug\netcoreapp3.1\RuneCrafter.pdb
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\obj\Debug\netcoreapp3.1\RuneCrafter.csproj.AssemblyReference.cache
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\obj\Debug\netcoreapp3.1\RuneCrafter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\obj\Debug\netcoreapp3.1\RuneCrafter.AssemblyInfoInputs.cache
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\obj\Debug\netcoreapp3.1\RuneCrafter.AssemblyInfo.cs
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\obj\Debug\netcoreapp3.1\RuneCrafter.csproj.CoreCompileInputs.cache
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\obj\Debug\netcoreapp3.1\RuneCrafter.dll
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\obj\Debug\netcoreapp3.1\RuneCrafter.pdb
+C:\Users\Nanaka\Desktop\RuneCrafter\RuneCrafter\obj\Debug\netcoreapp3.1\RuneCrafter.genruntimeconfig.cache
